@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0+1",
+  "generatedAt": "2026-05-17T10:57:09Z",
+  "android": {
+    "packageName": "com.ouidesigner.previewhost",
+    "mode": "release",
+    "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
+    "sha256": "2cc9912a90a3a1e19f487b32faf1e57f83172531e11594827d58264624bfd9dc",
+    "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "targetPlatform": "android-arm64",
+      "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
+      "fileName": "ouid-preview-host-release-arm64-v8a.apk",
+      "sha256": "2cc9912a90a3a1e19f487b32faf1e57f83172531e11594827d58264624bfd9dc",
+      "size": 31358657,
+      "version": "1.0.0+1"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "targetPlatform": "android-arm",
+      "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-armeabi-v7a.apk",
+      "fileName": "ouid-preview-host-release-armeabi-v7a.apk",
+      "sha256": "e565fe24ce350140e17a2e1af992eb74a615c55b597d4cd1d47110cd419bf15c",
+      "size": 27195703,
+      "version": "1.0.0+1"
+    },
+    {
+      "abi": "x86_64",
+      "targetPlatform": "android-x64",
+      "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-x86_64.apk",
+      "fileName": "ouid-preview-host-release-x86_64.apk",
+      "sha256": "25266a19e315eba4da9026dc90edde58508de856fbd18575ef760c355c8b6864",
+      "size": 33914556,
+      "version": "1.0.0+1"
+    }
+    ]
+  }
+}
