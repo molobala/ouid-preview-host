@@ -36,6 +36,15 @@ Optional build variables:
 BUILD_NAME=1.0.1 BUILD_NUMBER=2 bash scripts/build_android_releases.sh
 ```
 
+For local Preview Host development, build debug APKs outside this `releases` git repository and point the IDE to the matching ABI APK:
+
+```sh
+MODE=debug RELEASES_DIR=/tmp/ouid-preview-host-debug bash scripts/build_android_releases.sh
+OUID_PREVIEW_HOST_DEBUG_APK=/tmp/ouid-preview-host-debug/ouid-preview-host-debug-arm64-v8a.apk npm run dev
+```
+
+Debug APKs are intentionally not tracked in this repository because they exceed GitHub's normal git file size limit. If debug APKs need to be shared between internal developers, host them as external release assets and add them to `android.debugArtifacts` in `manifest.json`.
+
 The build script defaults artifact URLs to:
 
 ```sh

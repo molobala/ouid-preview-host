@@ -1,19 +1,19 @@
 {
   "version": "1.0.0+1",
-  "generatedAt": "2026-05-17T10:57:09Z",
+  "generatedAt": "2026-05-20T16:17:34Z",
   "android": {
     "packageName": "com.ouidesigner.previewhost",
     "mode": "release",
     "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
-    "sha256": "2cc9912a90a3a1e19f487b32faf1e57f83172531e11594827d58264624bfd9dc",
+    "sha256": "0508521b46d5eb8303c823ba9228eafe162d91467f96173d80578a77ac7173db",
     "artifacts": [
     {
       "abi": "arm64-v8a",
       "targetPlatform": "android-arm64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
       "fileName": "ouid-preview-host-release-arm64-v8a.apk",
-      "sha256": "2cc9912a90a3a1e19f487b32faf1e57f83172531e11594827d58264624bfd9dc",
-      "size": 31358657,
+      "sha256": "0508521b46d5eb8303c823ba9228eafe162d91467f96173d80578a77ac7173db",
+      "size": 31371339,
       "version": "1.0.0+1"
     },
     {
@@ -21,8 +21,8 @@
       "targetPlatform": "android-arm",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-armeabi-v7a.apk",
       "fileName": "ouid-preview-host-release-armeabi-v7a.apk",
-      "sha256": "e565fe24ce350140e17a2e1af992eb74a615c55b597d4cd1d47110cd419bf15c",
-      "size": 27195703,
+      "sha256": "260e7f702192865cfe8db2afb65a94bae8ad2678a7aaff8580898a5b40de24e9",
+      "size": 27208381,
       "version": "1.0.0+1"
     },
     {
@@ -30,8 +30,8 @@
       "targetPlatform": "android-x64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-x86_64.apk",
       "fileName": "ouid-preview-host-release-x86_64.apk",
-      "sha256": "25266a19e315eba4da9026dc90edde58508de856fbd18575ef760c355c8b6864",
-      "size": 33914556,
+      "sha256": "91e5acfbb5b19f28c8bb6b0a137f06ae36a8aaca824d0ccf71a1f4e48c47417c",
+      "size": 33927238,
       "version": "1.0.0+1"
     }
     ]
