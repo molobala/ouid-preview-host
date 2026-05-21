@@ -1,38 +1,38 @@
 {
-  "version": "1.0.0+1",
-  "generatedAt": "2026-05-20T16:17:34Z",
+  "version": "1.0.0+2",
+  "generatedAt": "2026-05-21T13:35:43Z",
   "android": {
     "packageName": "com.ouidesigner.previewhost",
     "mode": "release",
     "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
-    "sha256": "0508521b46d5eb8303c823ba9228eafe162d91467f96173d80578a77ac7173db",
+    "sha256": "b72cd214c17c0a4a1dea1d47f61738e15b9a23cef512e1f70dccf20bd8c2c5cd",
     "artifacts": [
     {
       "abi": "arm64-v8a",
       "targetPlatform": "android-arm64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
       "fileName": "ouid-preview-host-release-arm64-v8a.apk",
-      "sha256": "0508521b46d5eb8303c823ba9228eafe162d91467f96173d80578a77ac7173db",
-      "size": 31371339,
-      "version": "1.0.0+1"
+      "sha256": "b72cd214c17c0a4a1dea1d47f61738e15b9a23cef512e1f70dccf20bd8c2c5cd",
+      "size": 31322607,
+      "version": "1.0.0+2"
     },
     {
       "abi": "armeabi-v7a",
       "targetPlatform": "android-arm",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-armeabi-v7a.apk",
       "fileName": "ouid-preview-host-release-armeabi-v7a.apk",
-      "sha256": "260e7f702192865cfe8db2afb65a94bae8ad2678a7aaff8580898a5b40de24e9",
-      "size": 27208381,
-      "version": "1.0.0+1"
+      "sha256": "1d770905e935fcff91034634017ccda3fa2c21c6bae6e17a4d7d139a7e53c65b",
+      "size": 27176037,
+      "version": "1.0.0+2"
     },
     {
       "abi": "x86_64",
       "targetPlatform": "android-x64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-x86_64.apk",
       "fileName": "ouid-preview-host-release-x86_64.apk",
-      "sha256": "91e5acfbb5b19f28c8bb6b0a137f06ae36a8aaca824d0ccf71a1f4e48c47417c",
-      "size": 33927238,
-      "version": "1.0.0+1"
+      "sha256": "0765a46bccc7762479dd04cf9997efc8e7370e78e2193fcbd2326e4dd2975d0a",
+      "size": 33878506,
+      "version": "1.0.0+2"
     }
     ]
   }
