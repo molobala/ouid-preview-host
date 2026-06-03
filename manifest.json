@@ -1,38 +1,38 @@
 {
-  "version": "1.0.0+4",
-  "generatedAt": "2026-05-29T12:49:52Z",
+  "version": "1.0.0+5",
+  "generatedAt": "2026-06-03T10:34:14Z",
   "android": {
     "packageName": "com.ouidesigner.previewhost",
     "mode": "release",
     "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
-    "sha256": "e76718f96267b77a244f7033563f96fbc0d67ccd9ae6515781d51bac51e0a2ff",
+    "sha256": "4611fd74625491ea4e347075d44a356954453e21812da9ef395b739243e9bfae",
     "artifacts": [
     {
       "abi": "arm64-v8a",
       "targetPlatform": "android-arm64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-arm64-v8a.apk",
       "fileName": "ouid-preview-host-release-arm64-v8a.apk",
-      "sha256": "e76718f96267b77a244f7033563f96fbc0d67ccd9ae6515781d51bac51e0a2ff",
-      "size": 31338787,
-      "version": "1.0.0+4"
+      "sha256": "4611fd74625491ea4e347075d44a356954453e21812da9ef395b739243e9bfae",
+      "size": 31404323,
+      "version": "1.0.0+5"
     },
     {
       "abi": "armeabi-v7a",
       "targetPlatform": "android-arm",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-armeabi-v7a.apk",
       "fileName": "ouid-preview-host-release-armeabi-v7a.apk",
-      "sha256": "f00eb6a4b44412d54a61e3c48bc5b375d597a9640c2a5065e3db780d88064b3b",
+      "sha256": "24640698607502ee43ec54d3674282db7f3ba3f6b322b91e25d6bd72cd9f289b",
       "size": 27224981,
-      "version": "1.0.0+4"
+      "version": "1.0.0+5"
     },
     {
       "abi": "x86_64",
       "targetPlatform": "android-x64",
       "apkUrl": "https://raw.githubusercontent.com/molobala/ouid-preview-host/main/ouid-preview-host-release-x86_64.apk",
       "fileName": "ouid-preview-host-release-x86_64.apk",
-      "sha256": "cd83a8926013cbc0194872047253e555fb1397d1bc93a319de324e1b868c1a0a",
+      "sha256": "fa90ce535694ea05deec2b96303d288b641658655c56e2ef8fb42b59b3392d90",
       "size": 33894686,
-      "version": "1.0.0+4"
+      "version": "1.0.0+5"
     }
     ]
   }
